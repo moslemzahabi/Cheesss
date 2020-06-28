@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:columnCount="8"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFEB3B">
+
+
+    <LinearLayout
+        android:id="@+id/lay1"
+        android:tag="1-1"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay2"
+        android:tag="1-2"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay3"
+        android:tag="1-3"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay4"
+        android:tag="1-4"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay5"
+        android:tag="1-5"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay6"
+        style="@style/boardLayBlack2"
+        android:tag="1-6"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay7"
+        android:tag="1-7"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay8"
+        android:tag="1-8"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay9"
+        android:tag="2-1"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay10"
+        android:tag="2-2"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay11"
+        android:tag="2-3"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay12"
+
+        android:tag="2-4"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay13"
+        android:tag="2-5"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay14"
+        android:tag="2-6"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay15"
+        android:tag="2-7"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay16"
+        android:tag="2-8"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay17"
+        android:tag="3-1"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay18"
+        android:tag="3-2"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay19"
+        android:tag="3-3"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay20"
+        android:tag="3-4"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay21"
+        android:tag="3-5"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay22"
+        android:tag="3-6"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay23"
+        android:tag="3-7"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay24"
+        android:tag="3-8"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay25"
+        android:tag="4-1"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay26"
+        android:tag="4-2"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay27"
+        android:tag="4-3"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay28"
+        android:tag="4-4"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay29"
+        android:tag="4-5"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay30"
+        android:tag="4-6"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay31"
+        android:tag="4-7"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay32"
+        android:tag="4-8"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay33"
+        android:tag="5-1"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay34"
+        android:tag="5-2"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay35"
+        android:tag="5-3"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay36"
+        android:tag="5-4"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay37"
+        android:tag="5-5"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay38"
+        android:tag="5-6"
+        style="@style/boardLayBlack2">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay39"
+        android:tag="5-7"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay40"
+        android:tag="5-8"
+        style="@style/boardLayBlack2">
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/lay41"
+        android:tag="6-1"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay42"
+        android:tag="6-2"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay43"
+        android:tag="6-3"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay44"
+        android:tag="6-4"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay45"
+        android:tag="6-5"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay46"
+        android:tag="6-6"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay47"
+        android:tag="6-7"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay48"
+        android:tag="6-8"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay49"
+        android:tag="7-1"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay50"
+        android:tag="7-2"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay51"
+        android:tag="7-3"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay52"
+        android:tag="7-4"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay53"
+        android:tag="7-5"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay54"
+        android:tag="7-6"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay55"
+        android:tag="7-7"
+        style="@style/boardLayBlack"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay56"
+        android:tag="7-8"
+        style="@style/boardLayBlack2"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay57"
+        android:tag="8-1"
+        style="@style/boardLayBlack2">
+
+        <ImageView
+            android:id="@+id/rook_w1"
+            android:tag="rook"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/rook" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay58"
+        android:tag="8-2"
+        style="@style/boardLayBlack">
+        <ImageView
+            android:id="@+id/knite_w1"
+            android:tag="knite"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/knight" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay59"
+        android:tag="8-3"
+        style="@style/boardLayBlack2">
+        <ImageView
+            android:id="@+id/bishop_w1"
+            android:tag="bishop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/bishop" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay60"
+        android:tag="8-4"
+        style="@style/boardLayBlack">
+
+        <ImageView
+            android:id="@+id/qeen"
+            android:tag="qeen"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/qeen" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay61"
+        android:tag="8-5"
+        style="@style/boardLayBlack2">
+        <ImageView
+            android:id="@+id/king"
+            android:tag="king"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/king" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay62"
+        android:tag="8-6"
+        style="@style/boardLayBlack">
+        <ImageView
+            android:id="@+id/bishop_w2"
+            android:tag="bishop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/bishop" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay63"
+        android:tag="8-7"
+        style="@style/boardLayBlack2">
+        <ImageView
+            android:id="@+id/knite_w2"
+            android:tag="knite"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/knight" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay64"
+        android:tag="8-8"
+        style="@style/boardLayBlack">
+        <ImageView
+            android:id="@+id/rook_w2"
+            android:tag="rook"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/rook" />
+
+    </LinearLayout>
+</GridLayout>

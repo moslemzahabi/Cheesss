@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:columnCount="5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFEB3B">
+
+
+    <LinearLayout
+        android:id="@+id/lay1"
+        android:tag="1-1"
+        style="@style/boardLayBlack">
+        <TextView
+            style="@style/textview1"
+            android:text="1-1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay2"
+        android:tag="1-2"
+        style="@style/boardLayBlack2">
+
+        <TextView   style="@style/textview1"
+            android:text="1-2" />
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/lay3"
+        android:tag="1-3"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="1-3" /></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay4"
+
+        android:tag="1-4"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="1-4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay5"
+        android:tag="1-5"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="1-5" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay6"
+        style="@style/boardLayBlack2"
+        android:tag="2-1">
+        <TextView   style="@style/textview1"
+            android:text="2-1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay7"
+        android:tag="2-2"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="2-2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay8"
+        android:tag="2-3"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="2-3" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/lay9"
+        android:tag="2-4"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="2-4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay10"
+        android:tag="2-5"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="2-5" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay11"
+        android:tag="3-1"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="3-1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay12"
+
+        android:tag="3-2"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="3-2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay13"
+        android:tag="3-3"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="3-3" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay14"
+        android:tag="3-4"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="3-4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay15"
+        android:tag="3-5"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="3-5" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay16"
+        android:tag="4-1"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="4-1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay17"
+        android:tag="4-2"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="4-2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay18"
+        android:tag="4-3"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="4-3" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay19"
+        android:tag="4-4"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="4-4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay20"
+        android:tag="4-5"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="4-5" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay21"
+        android:tag="5-1"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="5-1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay22"
+        android:tag="5-2"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="5-2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay23"
+        android:tag="5-3"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="5-3" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay24"
+        android:tag="5-4"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="5-4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay25"
+        android:tag="5-5"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="5-5" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay26"
+        android:tag="6-1"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="6-1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay27"
+        android:tag="6-2"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="6-2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay28"
+        android:tag="6-3"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="6-3" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay29"
+        android:tag="6-4"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="6-4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay30"
+        android:tag="6-5"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="6-5" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay31"
+        android:tag="7-1"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="7-1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay32"
+        android:tag="7-2"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="7-2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay33"
+        android:tag="7-3"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="7-3" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay34"
+        android:tag="7-4"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="7-4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay35"
+        android:tag="7-5"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="7-5" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay36"
+        android:tag="8-1"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="8-1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay37"
+        android:tag="8-2"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="8-2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay38"
+        android:tag="8-3"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="8-3" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay39"
+        android:tag="8-4"
+        style="@style/boardLayBlack">
+        <TextView   style="@style/textview1"
+            android:text="8-4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lay40"
+        android:tag="8-5"
+        style="@style/boardLayBlack2">
+        <TextView   style="@style/textview1"
+            android:text="8-5" />
+    </LinearLayout>
+
+</GridLayout>
